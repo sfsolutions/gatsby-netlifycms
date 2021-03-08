@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Cherry RED
 order: 1
 seo:
   type: stackbit_page_meta
