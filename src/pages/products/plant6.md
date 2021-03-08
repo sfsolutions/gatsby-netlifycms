@@ -1,7 +1,6 @@
 ---
 id: '6'
 title: Varmilo Keyboard Chery RED
-description: Cras molestie faucibus ipsum ut vulputate.
 price: '100.00'
 order: 6
 default_thumbnail_image: images/plant6.jpg
