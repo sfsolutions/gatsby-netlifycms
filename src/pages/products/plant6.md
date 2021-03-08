@@ -1,7 +1,7 @@
 ---
 id: '6'
 title: Varmilo Keyboard Chery RED
-price: '100.00'
+price: '160'
 order: 6
 default_thumbnail_image: images/plant6.jpg
 default_original_image: images/plant6-lg.jpg
